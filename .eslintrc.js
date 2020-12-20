@@ -64,7 +64,7 @@ module.exports = {
         args: 'after-used',
         argsIgnorePattern: '_',
         ignoreRestSiblings: false,
-        varsIgnorePattern: '[Rr]eact',
+        varsIgnorePattern: '_'
       },
     ],
     'import/extensions': [
